@@ -1,0 +1,3 @@
+This is a basic app with spring security with login app.
+It is connected with mySQl DB. It has admin and user authorization implemented.
+It has form based lgoin with regular html pages. Development approach is monolithic.
